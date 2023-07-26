@@ -8,4 +8,4 @@ The script in this repo evaluates the type and maps the relevant field to the De
 2. Use log_entires[0].channel as the PagerDuty Webhook payload field
 3. Copy the script in this repo as the Lookup Script.
 
-![alt text]('PD-to-SNOW Description IFR.png')
+![PD2SnowDescriptionIFR.png](PD2SnowDescriptionIFR.png)
